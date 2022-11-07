@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/506555343.svg)](https://zenodo.org/badge/latestdoi/506555343)
+
 # norway_national_lake_surveys
 
 Datasets from the Norwegian national lake surveys, including:
